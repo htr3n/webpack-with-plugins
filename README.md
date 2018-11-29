@@ -4,3 +4,5 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 # Demo Webpack with plugins
+
+<https://htr3n.github.io/2018/02/getting-started-webpack/>
